@@ -1,0 +1,39 @@
+.titulo{
+    background-color: #0d5188;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.l1{
+    background-color: #66C5E3;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.Posições{
+    background-color: silver;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.Cidade{
+    background-color: #c7e7f3;
+    color: #0d5188;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+.Pop{
+    background-color: #c7e7f3;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.borda{
+    background-color: #c7e7f3;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
